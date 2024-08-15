@@ -1,20 +1,18 @@
-Hello, I'm Harsh Kathiriya! 👋
-About Me ℹ️
-I have curruntly studying my Bachelor Degree in MONARK UNIVERSITY. Passionate about coding and exploring new technologies, I'm currently work at Nexalus Soft, focusing on Back-End development in Python - Django.
+**<h1>Hello, I'm Harsh Kathiriya! 👋</h1>**
+**<h2>About Me ℹ️</h2>**
+I have curruntly studying my Bachelor Degree in MONARK UNIVERSITY. <br>Passionate about coding and exploring new technologies, I'm currently work at Nexalus Soft, focusing on Back-End development in Python - Django.
 
-Internship Experience 💼
+**<h2>Internship Experience 💼</h2>**
 Currently, I'm gaining hands-on experience with Python & Django technology at Nexalus Soft.
 
-Education 📚
+**<h2>Education 📚</h2>**
 B.E.: Bachelor of Engineering in Information Technology (IT) 
-In MONARK UNIVERSITY (2023 - Present)
+<br>In MONARK UNIVERSITY (2023 - Present)
 
-Skills 🚀
-Programming Languages: Python
-Technologies: Django, DRF, GitHub
-Other Skills: Problem Solving, Team Collaboration
-Learning Journey 🌱
+**<h2>Skills 🚀</h2>**
+**Programming Languages:** Python
+<br>**Technologies:** Django, DRF, GitHub
+<br>**Other Skills:** Problem Solving, Team Collaboration
+
+**<h2>Learning Journey 🌱</h2>**
 I'm currently focused on mastering Back-End technology and continuously expanding my knowledge in Back-End web app development.
-
-Let's Connect 📫
-Feel free to reach out to me via Email or connect with me on LinkedIn.
