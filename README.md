@@ -6,13 +6,13 @@ Curruntly, I am studying Bachelor of Engineering in MONARK UNIVERSITY. <br>Passi
 Currently, I'm gaining hands-on experience with Python & Django technology at Nexalus Soft.
 
 **<h2>Education 📚</h2>**
-B.E.: Bachelor of Engineering in Information Technology (IT) 
-<br>In MONARK UNIVERSITY (2023 - Present)
+- B.E.: Bachelor of Engineering in Information Technology (IT) 
+- <br>In MONARK UNIVERSITY (2023 - Present)
 
 **<h2>Skills 🚀</h2>**
-**Programming Languages:** Python
-<br>**Technologies:** Django, DRF, GitHub
-<br>**Other Skills:** Problem Solving, Team Collaboration
+- **Programming Languages:** Python
+- <br>**Technologies:** Django, DRF, GitHub
+- <br>**Other Skills:** Problem Solving, Team Collaboration
 
 **<h2>Learning Journey 🌱</h2>**
 I'm currently focused on mastering Back-End technology and continuously expanding my knowledge in Back-End web app development.
