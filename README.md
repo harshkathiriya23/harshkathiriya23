@@ -18,4 +18,4 @@ B.E.: Bachelor of Engineering in Information Technology (IT)
 I'm currently focused on mastering Back-End technology and continuously expanding my knowledge in Back-End web app development.
 
 **<h2>Let's Connect 📫</h2>**
-Feel free to reach out to me via connect with me on [LinkedIn](https://www.linkedin.com/in/harshkathiriya23/).
+Feel free to reach out to me via [Email](mailto:harshkathiriyao6@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/harshkathiriya23/).
