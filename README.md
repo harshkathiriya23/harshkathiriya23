@@ -9,7 +9,7 @@ I am a full-stack developer specializing in Python and Django for backend develo
 **<h2>Skills 🚀</h2>**
 - **Programming Languages:** Python, Django, Django REST Framework (DRF), React.Js, Next.Js
 - **APIs & Integrations:** Meta API, Telegram API, Stripe API, Shopify API
-- **DevOps & Tools:** GitHub, Docker, AWS
+- **DevOps & Tools:** Docker, AWS
 - **Development Tools:** GitHub, GitLab, Postman, JIRA, Slack, Microsoft Teams, Google Chat
 - **Databases:** MySQL, PostgreSQL, SQLite, RDS
 - **Other Skills:** Problem Solving, Team Collaboration
