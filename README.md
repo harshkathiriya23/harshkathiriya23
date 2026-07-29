@@ -4,14 +4,15 @@ I am a full-stack developer specializing in Python and Django for backend develo
 
 **<h2>Education 📚</h2>**
 - B.E.: Bachelor of Engineering in Information Technology (IT) 
-- In MONARK UNIVERSITY (2023 - Present)
+- In Hasmukh Goswami College of Engineering (2023 - Present)
 
 **<h2>Skills 🚀</h2>**
 - **Programming Languages:** Python, Django, Django REST Framework (DRF), React.Js, Next.Js
 - **APIs & Integrations:** Meta API, Telegram API, Stripe API, Shopify API
-- **DevOps & Tools:** Docker, AWS, n8n
-- **Development Tools:** GitHub, GitLab, Postman, JIRA, Slack, Microsoft Teams, Google Chat
+- **Vector Databases:** Qdrant, Pinecone
 - **Databases:** MySQL, PostgreSQL, SQLite, RDS
+- **DevOps & Tools:** Kubernetes, Docker, Docker Hub, AWS, n8n
+- **Development Tools:** GitHub, GitLab, Postman, JIRA, Slack, Microsoft Teams, Google Chat
 - **Other Skills:** Problem Solving, Team Collaboration
 
 **<h2>Learning Journey 🌱</h2>**
